@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Eduardo Sebastian Hernandez Altuzar</h1>
-<h3 align="center">Soy estudiante de desarrollo de software de primer cuatrimestre.</h3>
+<h3 align="center">Soy estudiante de desarrollo de software de segundo cuatrimestre.</h3>
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/edualt](https://github.com/edualt)
 
