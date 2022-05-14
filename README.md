@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, mi nombre es Eduardo Sebastian Hernandez Altuzar</h1>
-<h3 align="center">Soy estudiante de desarrollo de software de segundo cuatrimestre.</h3>
+<h1 align="center">Hi 👋, I'm Eduardo Altuzar</h1>
+<h3 align="center">I'm a software development student.</h3>
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/edualt](https://github.com/edualt)
+- 👨‍💻 All my proyects: [https://github.com/edualt](https://github.com/edualt)
 
-- 📫 Me puedes contactar en **edualt03@gmail.com**
+- 📫 My contact **edualt03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
