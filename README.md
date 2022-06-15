@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Altuzar</h1>
 <h3 align="center">I'm a software development student.</h3>
 
-- 👨‍💻 All my proyects: [https://github.com/edualt](https://github.com/edualt)
+- 👨‍💻 All my projects: [https://github.com/edualt](https://github.com/edualt)
 
 - 📫 My contact **edualt03@gmail.com**
 
