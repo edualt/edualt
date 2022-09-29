@@ -1,4 +1,4 @@
-###### Hi!  
+# <div align="center"> Hi! </div>
   
 
 ### <div align="center">I'm edualt, a backend developer 👨‍💻 learning since 2021 🚀</div>  
