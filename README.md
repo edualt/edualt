@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+###### Hi!  
   
 
 ### <div align="center">I'm edualt, a backend developer 👨‍💻 learning since 2021 🚀</div>  
