@@ -1,13 +1,13 @@
 # <div align="center"> Hi! </div>
   
 
-### <div align="center">I'm edualt, a backend developer 👨‍💻 learning since 2021 🚀</div>  
+### <div align="center">I'm edualt, a frontend developer 👨‍💻 learning since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on school projects  
+- 🔭 I’m currently working on frontend projects  
   
 
-- 🌱 I’m currently learning springboot and docker  
+- 🌱 I’m currently learning advanced react patterns
   
 
 - ⚡ Fun fact: I use tabs over spaces  
